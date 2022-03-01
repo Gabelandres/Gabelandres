@@ -1,4 +1,4 @@
-# Gabelandres
+# Gabriel
 HELLO!
 
 My name is Gabriel Constantine Belandres but you can call me gaby.
